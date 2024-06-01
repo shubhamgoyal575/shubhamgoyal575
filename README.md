@@ -9,7 +9,8 @@ I love turning raw data into meaningful insights and helping businesses make dat
 
 - **Power BI**: Creating interactive and insightful dashboards and reports.
 - **Excel**: Advanced data analysis, pivot tables, VLOOKUP,Power Pivot.
-- **SQL**: Writing complex queries for data manipulation and retrieval, database management, and performance tuning.
+- **SQL**: Writing complex queries for data manipulation and retrieval, database management, and performance tuning.    
+- **Python**: Data cleaning and manipulation, data visualization, EDA, scripting for data processing and analysis.
 
 ## 📊 Projects
 
