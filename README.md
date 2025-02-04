@@ -46,11 +46,12 @@ Here are some of the projects I've worked on:
 
 ### 5. Hypothesis Testing & Statistical Analysis
 - **Tools Used:** Hypothesis Testing, Confidence Interval Estimation, ANOVA, t-Test, Multiple Regression
-- **Description:** Confidence Interval Estimation: Constructed 90%, 95%, and 99% confidence intervals for average dental claim reimbursements.
-Multiple Regression Analysis: Evaluated the impact of price per square foot, bathrooms, and floor size on housing prices.
-ANOVA Analysis: Compared tensile strengths of rubber seals across six machines and sorption rates of solvents.
-t-Test for Smoking & Heart Attack Age: Conducted a two-sample t-test to analyze heart attack age differences between smokers and non-smokers.
-Repository: [[Hypothesis Testing](https://github.com/shubhamgoyal575/Hypothesis_Testing)]
+- **Description:**
+  - Confidence Interval Estimation: Constructed 90%, 95%, and 99% confidence intervals for average dental claim reimbursements.
+  - Multiple Regression Analysis: Evaluated the impact of price per square foot, bathrooms, and floor size on housing prices.
+  - ANOVA Analysis: Compared tensile strengths of rubber seals across six machines and sorption rates of solvents.
+  - t-Test for Smoking & Heart Attack Age: Conducted a two-sample t-test to analyze heart attack age differences between smokers and non-smokers.
+- **Repository:** [[Hypothesis Testing](https://github.com/shubhamgoyal575/Hypothesis_Testing)]
 
 ### 6. Ad Performance Analysis: Facebook vs. AdWords
 - **Tools Used:** Hypothesis Testing, Statistical Analysis
