@@ -1,17 +1,19 @@
 
 ### 👋 Hi, I'm Shubham Goyal
 
-Welcome to my GitHub profile! I'm Shubham Goyal, a passionate Data Analyst with expertise in Power BI, Excel, and SQL. 
+Welcome to my GitHub profile! I'm Shubham Goyal, a passionate Data Analyst with expertise in Power BI, Excel, Python, SQL, NoSQL, Machine Learning, Deep Learning. 
 I love turning raw data into meaningful insights and helping businesses make data-driven decisions.
 
 ### Skills
 - Power Bi/Tableau
 - Excel
 - SQL
+- NoSQL
 - Python
 - Time Series Analysis
 - Hypothesis Testing
-- Machine Learning(Supervised and Unsupervised Learning)
+- Machine Learning
+- Deep Learning
 
 ## 🛠 Tools
 
@@ -19,6 +21,9 @@ I love turning raw data into meaningful insights and helping businesses make dat
 - **Excel**: Advanced data analysis, pivot tables, VLOOKUP,Power Pivot.
 - **SQL(MYSQL)**: Writing complex queries for data manipulation and retrieval, database management, and performance tuning.    
 - **Python**: Data cleaning and manipulation, data visualization, EDA, scripting for data processing, analysis and prediction.
+- **Jupyter Notebook/Google Colab:** Interactive coding environments for data analysis, visualization, and machine learning experiments.
+- **MongoDB Compass:** NoSQL database for handling large-scale unstructured data, performing aggregation, and managing document-based storage.
+- **Visual Studio Code:** Integrated Development Environment (IDE) for coding, debugging, and building applications in multiple languages like Python
 
 ## 📊 Projects
 
